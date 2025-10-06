@@ -1,0 +1,7 @@
+Country,Continent,SurfaceArea,Population,Density,IndependenceDate,OfficialLanguage,Percentage
+China,Asia,"9572900 ","1277558000 ",133 ,1949-10-01,Mandarin,0.81
+Bangladesh,Asia,"143998 ","129155000 ",897 ,1905-05-24,Bengali,0.98
+Brazil,South America,"8547403 ","170115000 ",20 ,1822-09-07,Portuguese,0.98
+India,Asia,"3287263 ","1013662000 ",308 ,1905-04-30,Hindi,0.40
+Norway,Europe,"385207 ","5379000 ",14 ,1905-05-17,Norwegian,0.97
+United States,North America,"9363520 ","278357000 ",30 ,1776-07-04,English,0.86
